@@ -44,5 +44,6 @@ Modified splash logo 2
 
 
 Credits:
-XCuri0 for making it possible to run ReBar on unsupported boards and its instructions on Wiki in Github
-fabriguzden for creating an example of modification on the GA-Z77X-UD5H board
+[XCuri0 for making it possible to run ReBar on unsupported boards and its instructions on Wiki in Github](https://github.com/xCuri0)
+[fabriguzden for creating an example of modification on the GA-Z77X-UD5H board](https://github.com/xCuri0/ReBarUEFI/files/13465369/Z77XUD5H%2BReBar%2BNVMe%2B4G.Decode.All.Options.Show.zip)
+[Other motherboards with ReBar](https://github.com/xCuri0/ReBarUEFI/issues/11)
